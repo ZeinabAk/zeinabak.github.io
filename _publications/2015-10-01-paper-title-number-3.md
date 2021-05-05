@@ -3,7 +3,7 @@ title: "On the impact of release policies on bug handling activity: A case study
 collection: publications
 permalink: /publication/JSS
 excerpt: 'Studying the impact of policy changes on bug handling performance.'
-date: 2021=3-1
+date: 2021-3-1
 venue: 'Journal of Systems and Software'
 paperurl: 'https://hal.inria.fr/hal-03035765/document'
 citation: 
