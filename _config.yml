@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeinab Abou Khalil / Site Title"
+title                    : "Dr. Zeinab Abou Khalil"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zeinab Abou Khalil"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Paris"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=f1S6eqEAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Zeinab-Abou-Khalil"
