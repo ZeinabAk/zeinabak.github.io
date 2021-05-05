@@ -16,9 +16,9 @@ I hold PhD in computer science from the University of Lille, France and the Univ
 on understanding the impact of release policies on software development processes.
 
 **Brief Biography:**   
-\* **04/2021 - Present:** Postdoc at Inria-Paris (Software Heritage team);   
-\* **11/2017 - 02/2021:** Ph.D at the University of Lille, France and the University of Mons;   
-\* **09/2012 - 09/2017:** Masters degree in computer science from the University Lebanon.
+ **04/2021 - Present:** Postdoc at Inria-Paris (Software Heritage team);   
+ **11/2017 - 02/2021:** Ph.D at the University of Lille, France and the University of Mons;   
+ **09/2012 - 09/2017:** Masters degree in computer science from the University Lebanon.
 
 
 
