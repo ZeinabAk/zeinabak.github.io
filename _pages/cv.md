@@ -20,30 +20,12 @@ Education
 Technical Skills
 ======
 * **Programming:**  Python, C/C++, Java, SQL, noSQL, OCL, UML 
-* Web Technologies:
-  * REST API, Javascript, HTML, CSS
-* Data Modeling
-  * JSON, RDF, OWL, XML
-* Data Management
-  * MySql, PostGres, Oracle
-* Machine Learning
-  * Regression, Random Forest, SVM
-* Version Control 
-  * GIT, SVN
-* Data Analysis
-  * Strong analytical and quantitative skills
-
-
-
-Programming |  Python, C/C++, Java, SQL, noSQL, OCL, UML 
-Web Technologies  |  REST API, Javascript, HTML, CSS
-Data Modeling  |  JSON, RDF, OWL, XML
-Data Management  |  MySql, PostGres, Oracle
-Machine Learning  |  Regression, Random Forest, SVM
-Version Control  |  GIT, SVN
-Data Analysis |  Strong analytical and quantitative skills
-
-
+* **Web Technologies:** REST API, Javascript, HTML, CSS
+* **Data Modeling:** JSON, RDF, OWL, XML
+* **Data Management:** MySql, PostGres, Oracle
+* **Machine Learning:** Regression, Random Forest, SVM
+* **Version Control:** GIT, SVN
+* **Data Analysis:** Strong analytical and quantitative skills
 
 
 
