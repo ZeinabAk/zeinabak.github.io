@@ -30,7 +30,7 @@ PhD thesis:
 * Research visit at Polytechnique Montreal, Canada  
 Supervisor: Prof. Foutse Khomh.  
 Topic: Studying the impact of the removal of Aurora in Firefox on the software quality.  
-* Research visit at Eindhoven University of Technology, Netherlands. 
+* Research visit at Eindhoven University of Technology, Netherlands.   
  Supervisor: Dr. Eleni Constantinou.  
 Topic: Studying the impact of rapid releases on the bug handling activity in Eclipse.
 
