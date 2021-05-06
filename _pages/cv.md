@@ -11,34 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Lebanese University, 20125
+* M.S. in Information Systems and Data Intelligence, Lebanese University, 2017
+* Ph.D in Version Control Theory, University of Lille, France and University of Mons. Belgium.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Programming
+* Web Technologies
+  * REST API, Javascript, HTML, CSS
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
 
 
 
-| ------------- |:-------------:| 
+
 Programming |  Python, C/C++, Java, SQL, noSQL, OCL, UML 
 Web Technologies  |  REST API, Javascript, HTML, CSS
 Data Modeling  |  JSON, RDF, OWL, XML
@@ -51,7 +41,11 @@ Data Analysis |  Strong analytical and quantitative skills
 
 
 
-
+Language
+======
+English: Fluent   
+French: Intermediate   
+Arabic: Native
 
 
 
