@@ -17,8 +17,8 @@ Education
 
 PhD work
 ======
-**Thesis title:** Understanding the Impact of Release Policy on Software Development Processes.
-**Topic:** The adoption of rapid release practices, introduced by agile methodology, forces organizations to change their development pro- cess and tools to release to the public, in a timely manner and with a good quality. My PhD goal is to help obtain valuable insights, for practitioners, in what are the advantage and disadvantages of the adoption of rapid releases, plan and tools that are needed for a suc- cessful adoption.
+**Thesis title:** Understanding the Impact of Release Policy on Software Development Processes.  
+**Topic:** The adoption of rapid release practices, introduced by agile methodology, forces organizations to change their development pro- cess and tools to release to the public, in a timely manner and with a good quality. My PhD goal is to help obtain valuable insights, for practitioners, in what are the advantage and disadvantages of the adoption of rapid releases, plan and tools that are needed for a successful adoption.  
 **Main duties performed:**
 * Collect data from software repositories (e.g, Github & Bugzilla).
 * Process, analyse and interpret data using python analytics libraries.
@@ -26,10 +26,11 @@ PhD work
 * Supervise M.Sc. students.
 
 **Collaborations:**
-* Research visit at Polytechnique Montreal, Canada
+* Research visit at Polytechnique Montreal, Canada  
 Supervisor: Prof. Foutse Khomh
 Topic: Studying the impact of the removal of Aurora in Firefox on the software quality.
-* Research visit at Eindhoven University of Technology, Netherlands Supervisor: Dr. Eleni Constantinou
+* Research visit at Eindhoven University of Technology, Netherlands. 
+ Supervisor: Dr. Eleni Constantinou
 Topic: Studying the impact of rapid releases on the bug handling activity in Eclipse (JSS paper).
 
 
