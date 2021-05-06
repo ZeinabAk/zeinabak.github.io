@@ -19,8 +19,7 @@ Education
   
 Technical Skills
 ======
-* Programming:
-  * Python, C/C++, Java, SQL, noSQL, OCL, UML 
+* **Programming:**  Python, C/C++, Java, SQL, noSQL, OCL, UML 
 * Web Technologies:
   * REST API, Javascript, HTML, CSS
 * Data Modeling
