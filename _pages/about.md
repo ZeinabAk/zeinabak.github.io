@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 **Who am I:** 
-I am currently a Post doctoral researcher at the ([Software Heritage](https://www.softwareheritage.org/)) team - ([Inria](https://www.inria.fr/fr)), Paris. 
+
+I am currently a Post doctoral researcher at the ([Software Heritage](https://www.softwareheritage.org/)) team - ([Inria](https://www.inria.fr/fr))-Paris. 
 My research interests lie primarily in the area of software quality and reliability. 
 My main research interests include software engineering, software evolution, mining software repositories and process mining.
 I hold PhD in computer science from the University of Lille, France and the University of Mons, Belgium 
