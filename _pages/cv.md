@@ -39,7 +39,7 @@ Topic: Studying the impact of rapid releases on the bug handling activity in Ecl
   
 Technical Skills
 ======
-* **Programming:**  Python, C/C++, Java, SQL, noSQL, OCL, UML 
+* **Programming:**  Python, C/C++, Java, SQL 
 * **Web Technologies:** REST API, Javascript, HTML, CSS
 * **Data Modeling:** JSON, RDF, OWL, XML
 * **Data Management:** MySql, PostgreSQL, Oracle

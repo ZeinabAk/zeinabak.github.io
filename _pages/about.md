@@ -17,7 +17,7 @@ My main research interests include software engineering, software evolution, min
 **Brief Biography:** 
  * **04/2021 - Present:** Postdoc at Inria-Paris (Software Heritage team);   
  * **11/2017 - 02/2021:** Ph.D at the University of Lille, France and the University of Mons, Belgium;   
- * **09/2012 - 09/2017:** Masters degree in computer science from the University of Lebanon.
+ * **09/2012 - 09/2017:** Masters degree in computer science from the Lebanese University, Lebanon
 
 
 
